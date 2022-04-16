@@ -11,14 +11,14 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-i18n": "4.1.7",
-    "@strapi/plugin-users-permissions": "4.1.7",
-    "@strapi/provider-upload-cloudinary": "^4.1.7",
-    "@strapi/strapi": "4.1.7",
+    "@strapi/plugin-i18n": "4.1.8",
+    "@strapi/plugin-users-permissions": "4.1.8",
+    "@strapi/provider-upload-cloudinary": "^4.1.8",
+    "@strapi/strapi": "4.1.8",
     "fs": "^0.0.1-security",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.0.3",
     "uuidv4": "^6.2.13"
   },
   "author": {
